@@ -18,6 +18,10 @@ example:
 * * * * * /home/arthur/Desktop/CNI-sniper/script.sh
 ```
 
+# Uninstall
+
+Remove the line you appened to the crontab (`crontab -e` to edit)
+
 # How it should look
 
 ![notification](possible_output.png)
